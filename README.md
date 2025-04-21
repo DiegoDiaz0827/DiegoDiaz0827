@@ -10,8 +10,12 @@
 📍 Desde Cúcuta, Colombia  
 📚 Actualmente estudiando Python, Git y bases del desarrollo backend  
 🗣️ Mejorando mi inglés en el Active English Institute  
-🎯 Mis metas: 
-1. Convertirme en desarrollador backend **senior**
-2. trabajar en un espacio remoto con earnings en dolares
-3. alcanzar un nivel c1 en el lenguaje de ingles
+<h4>🎯 Mis metas:</h4>
+
+<ul>
+  <li><span style="color:#007BFF">Convertirme en desarrollador backend <strong>senior</strong></span></li>
+  <li><span style="color:#007BFF">Trabajar en un espacio remoto con earnings en dólares</span></li>
+  <li><span style="color:#007BFF">Alcanzar un nivel C1 en el lenguaje de inglés</span></li>
+</ul>
+
 
