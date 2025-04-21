@@ -1,6 +1,6 @@
 # ⚔️☠︎   ¡Hola! Soy Diego Armando Diaz 🐦‍🔥
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1500&color=8000FF&center=true&vCenter=true&width=500&lines=Backend+Developer+in+progress+🔥;Apasionado+por+la+tecnolog%C3%ADa+💻;Construyendo+mi+futuro+con+c%C3%B3digo+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=24&duration=3000&pause=1500&color=8000FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+progress+🔥;Apasionado+por+la+tecnología+💻;Construyendo+mi+futuro+con+código+🚀" alt="Typing SVG">
 </p>
 
 
@@ -10,12 +10,64 @@
 📍 Desde Cúcuta, Colombia  
 📚 Actualmente estudiando Python, Git y bases del desarrollo backend  
 🗣️ Mejorando mi inglés en el Active English Institute  
-<h4>🎯 Mis metas:</h4>
+### 🎯 MIS METAS
 
-<ul>
-  <li><span style="color:#007BFF">Convertirme en desarrollador backend <strong>senior</strong></span></li>
-  <li><span style="color:#007BFF">Trabajar en un espacio remoto con earnings en dólares</span></li>
-  <li><span style="color:#007BFF">Alcanzar un nivel C1 en el lenguaje de inglés</span></li>
-</ul>
+- **Convertirme en desarrollador backend senior**
+- **Trabajar remoto y ganar en dólares**
+- **Alcanzar un nivel C1 en inglés**
 
+
+---
+
+<h3>👑 Lo que estoy aprendiendo:</h3>
+
+<table>
+  <tr>
+    <td>🐍</td>
+    <td><strong>Lenguajes:</strong> Python, JavaScript</td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td><strong>Herramientas:</strong> Git, GitHub</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><strong>Lógica:</strong> PSeInt y resolución de problemas</td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td><strong>Bases de datos:</strong> Uso básico y consultas simples</td>
+  </tr>
+  <tr>
+    <td>📏</td>
+    <td><strong>Buenas prácticas:</strong> Código limpio y control de versiones</td>
+  </tr>
+</table>
+
+---
+
+## 📁 Proyectos personales
+
+🛩️🌏 **Sistema de Gestión de Envíos para Aeropuerto**  
+👾 *permite llevar el registro y control de todos los envíos, recepción y reparto de Paquetes..*  
+📌 Tecnologías: `Python`, `input/output`, `condicionales`  
+⏳ *En desarrollo*  
+
+---
+
+👨‍🏫 **Sistema de Registro y Gestión de Estudiantes**  
+💬 *Permite crear, ver, actualizar y eliminar registros de los estudiantes.*  
+📌 Tecnologías: `Python`, `listas`, `funciones`  
+🧪 *Práctica de lógica y estructura de datos*  
+
+---
+
+💎 **Sistema de Control de Inventarios para Tienda**  
+💬 *permite gestionar el control logistico de la salida y entrada de productos del inventario.*  
+📌 Tecnologías: `Python`, `listas`, `bucles`, `funciones`  
+🎯 *Primer paso hacia interfaces más complejas*
+
+---
+
+_✨ Próximamente disponibles en mis repositorios_
 
