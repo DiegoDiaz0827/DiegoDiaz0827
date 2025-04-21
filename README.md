@@ -1,4 +1,4 @@
-# ⚔️☠︎   ¡Hola! Soy Diego Armando Diaz 🐦‍🔥
+# ⚔️☠︎  ¡Hola! Soy Diego Armando Diaz 🐦‍🔥
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=24&duration=3000&pause=1500&color=8000FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+progress+🔥;Apasionado+por+la+tecnología+💻;Construyendo+mi+futuro+con+código+🚀" alt="Typing SVG">
 </p>
@@ -10,12 +10,16 @@
 📍 Desde Cúcuta, Colombia  
 📚 Actualmente estudiando Python, Git y bases del desarrollo backend  
 🗣️ Mejorando mi inglés en el Active English Institute  
-### 🎯 MIS METAS
 
-- **Convertirme en desarrollador backend senior**
-- **Trabajar remoto y ganar en dólares**
-- **Alcanzar un nivel C1 en inglés**
+---
 
+## 🛡️ Mis Objetivos Clave
+
+En mi camino, me he propuesto alcanzar las siguientes metas:
+
+* 👨‍💻 **Convertirme en Desarrollador Backend Senior ➡︎** Un paso fundamental en mi crecimiento profesional, donde la experiencia y el liderazgo marcarán la diferencia.
+* 💸 **Trabajar Remoto y en Dólares ➡︎** Una visión de libertad y estabilidad económica que me impulsa a buscar las mejores oportunidades globales.
+* 📚 **Alcanzar un Nivel C1 de Inglés ➡︎** Una habilidad esencial para conectar con el mundo y abrir puertas a nuevos conocimientos y colaboraciones.
 
 ---
 
