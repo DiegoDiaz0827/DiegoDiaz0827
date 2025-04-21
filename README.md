@@ -48,26 +48,38 @@
 
 ## 📁 Proyectos personales
 
-🛩️🌏 **Sistema de Gestión de Envíos para Aeropuerto**  
+1.🛩️🌏 **Sistema de Gestión de Envíos para Aeropuerto**  
 👾 *permite llevar el registro y control de todos los envíos, recepción y reparto de Paquetes..*  
 📌 Tecnologías: `Python`, `input/output`, `condicionales`  
 ⏳ *En desarrollo*  
 
----
 
-👨‍🏫 **Sistema de Registro y Gestión de Estudiantes**  
+
+2.👨‍🏫 **Sistema de Registro y Gestión de Estudiantes**  
 💬 *Permite crear, ver, actualizar y eliminar registros de los estudiantes.*  
 📌 Tecnologías: `Python`, `listas`, `funciones`  
 🧪 *Práctica de lógica y estructura de datos*  
 
----
 
-💎 **Sistema de Control de Inventarios para Tienda**  
+
+3.💎 **Sistema de Control de Inventarios para Tienda**  
 💬 *permite gestionar el control logistico de la salida y entrada de productos del inventario.*  
 📌 Tecnologías: `Python`, `listas`, `bucles`, `funciones`  
 🎯 *Primer paso hacia interfaces más complejas*
 
 ---
 
-_✨ Próximamente disponibles en mis repositorios_
+## ✨ Explorando Horizontes y Aprendiendo Juntos
+
+Mi brújula apunta hacia **prácticas enriquecedoras**, **mentorías que iluminen mi camino**, y **proyectos colaborativos vibrantes**.  Quiero ensuciarme las manos aplicando lo que sé en **situaciones reales** y, sobre todo, recibir **feedback valioso** que me impulse a ser cada día mejor. ¡La curiosidad me mueve! 💡
+
+---
+
+## 📬 ¿Hablamos?
+
+* **GitHub:** Encuéntrame en [DiegoDiaz0827](https://github.com/DiegoDiaz0827) 🛠️
+* **Email:** Escríbeme a diegoardisu@gmail.com 📧
+* **LinkedIn:** Conectemos en [Diego Diaz](https://www.linkedin.com/in/scrapd-undefined-859877361/) 👋
+
+---
 
