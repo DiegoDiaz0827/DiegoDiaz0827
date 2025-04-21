@@ -6,6 +6,10 @@
 
 <h3 align="center">🌘🌟 "todo lo que puedas imaginar, lo puedes programar."</h3>
 
+---
+
+##  🧑‍🤘Acerca de mi➡️
+
 🎓 Desarrollador backend en formación apasionado por la tecnología, la eficiencia y el aprendizaje continuo.  
 📍 Desde Cúcuta, Colombia  
 📚 Actualmente estudiando Python, Git y bases del desarrollo backend  
